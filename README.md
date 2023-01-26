@@ -22,8 +22,11 @@ This project requires the following packages:
     sklearn
     xgboost
 
-You can install these packages by running the command conda install --file requirements.txt
-Data
+You can install these packages by running the command:
+
+<pre><code>conda install --file requirements.txt</code></pre>
+
+## Data
 
 The datasets used in this project can be found on Kaggle:
 
